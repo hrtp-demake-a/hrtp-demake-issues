@@ -3,8 +3,6 @@ description: отправить баг репорт.
 title: "[Баг]: "
 labels: ["bug", "triage"]
 projects: ["hrtp-demake"]
-assignees:
-  - octocat
 body:
   - type: markdown
     attributes:
